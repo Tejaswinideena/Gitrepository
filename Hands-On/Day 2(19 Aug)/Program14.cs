@@ -1,27 +1,48 @@
 ﻿using System;
 public class Program14
 {
-    public static void Main(String[] args)
-    {
-        int n;
-        Console.Write("Enter a number : ");
-        n = Convert.ToInt32(Console.ReadLine());
-        switch (n)
+        public static void Main(string[] args)
         {
-            case 0:
-                Console.WriteLine("Zero");
-                break;
-            case 1:
+            int n;
+            Console.WriteLine("Enter the number");
+            n = Convert.ToInt32(Console.ReadLine());
+            int ch = 0;
+            Console.WriteLine("\n");
+            while (ch < 4)
+            {
+                switch (ch)
+                {
+                    case 0:
+                    if (n == 0)
+                        Console.WriteLine("Entered Number is Zero,Enter Valid Number!!!");
+                    break;
+                    case 1:
+                        if (n % 2 == 0)
+                        {
+                            Console.WriteLine("{0} is even", n);
+                        }
+                        else
+                            Console.WriteLine("{0} is odd", n);
 
-                Console.WriteLine("odd");
-                break;
+                        break;
+                    case 2:
+                        if (n %10  == 0)
+                        {
+                            Console.WriteLine("{0} is  a multiple of 10", n);
 
-            case 2:
-                Console.WriteLine("even");
-                break;
-            default:
-                Console.WriteLine("enter another number");
-                break;
+                        }
+                        break;
+                    case 3:
+                        if (n > 100)
+                            Console.WriteLine("Too Large");
+                        break;
+                    default:
+                            Console.WriteLine("Enter Valid Number");
+                            break;
+                }
+                ch++;
+            }
+            Console.ReadLine();
         }
-    }
+    
 }
