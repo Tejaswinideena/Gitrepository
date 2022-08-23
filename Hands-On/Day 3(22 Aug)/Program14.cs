@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Program14
 {
@@ -19,11 +19,9 @@ public class Program14
 
     public static void Main()
     {
-
         int[] arr = { 1, 2, 3 };
         int m = arr.Length;
         Console.Write(count(arr, m, 4));
-
-
+        
     }
 }
