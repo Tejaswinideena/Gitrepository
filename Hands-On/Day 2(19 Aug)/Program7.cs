@@ -1,5 +1,5 @@
 ﻿using System;
-public class csharpExercise
+public class Program7
 {
     static void Main(string[] args)
     {
