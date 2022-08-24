@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ReusableCodeLibrary;
 
 namespace MyApp
@@ -11,14 +7,13 @@ namespace MyApp
     {
         public static void Main(string[] args)
         {
-            StringOperations.Compare();
-            StringOperations.Copy();
-            StringOperations.Indexof();
-            StringOperations.Split();
-            StringOperations.Uppercase();
-            FileandDate.Datedetails();
-            FileandDate.Makefile();
-           
+            Program1.Compare();
+            Program2.Copy();
+            Program3.Indexof();
+            Program4.Split();
+            Program5.Uppercase();
+            Program6.Datedetails();
+            Program7.Makefile();
         }
     }
 }
