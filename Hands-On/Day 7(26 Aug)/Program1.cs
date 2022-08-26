@@ -8,7 +8,7 @@ using System.Xml.Linq;
 
 namespace Day_7_26_Aug_
 {
-   /* struct Student
+    struct Student
     {
         public int Regno;
         public string Name;
@@ -56,7 +56,7 @@ namespace Day_7_26_Aug_
                 Console.WriteLine("\n");
             }
             Console.ReadLine();
-        }*/
+        }
     }
 
 
