@@ -1,0 +1,15 @@
+RAINBOW SCHOOL
+
+STUDENT DETAILS
+
+S.NO   NAME             CLASS         SECTION      GRADE
+
+1      Raja              10              A           O
+
+2      Anirudh           10              B           A+
+
+3      Yuvan             11              A           A
+
+4      Rahman            11              B           O
+
+5      Harish            12              A           B+

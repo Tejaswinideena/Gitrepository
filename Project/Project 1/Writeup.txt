@@ -1,0 +1,10 @@
+Project : Retrieve Student Data from a Text File
+
+Step 1: Created a text file and add student details.
+Step 2: In Visual Studio Create Console App(.Net Framework) Project.
+Step 3: Write Code to get all data inside the text file.
+Step 4: Run the code and check output.
+
+Github Link:
+
+https://github.com/Tejaswinideena/Gitrepository.git
