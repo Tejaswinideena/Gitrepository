@@ -1,0 +1,11 @@
+Steps:
+
+1.Create Class Library and write code to get student and teacher data.
+
+2.In Program.cs write code to execute the class file code by using namespace of Class Library.
+
+3.Get Output
+
+Github Link:
+
+  https://github.com/Tejaswinideena/Gitrepository.git
