@@ -1,0 +1,18 @@
+Phase 2 End Project 
+Player and Team Requirements
+
+Steps:
+1.Create a Player Class and write Properties for Player Id, Name, and Age.
+2.Create a Interface and write methods which need to be implemented in class file.
+3.Create a Class file and write code for below mentioned conditions,inherit player class and interface in this class.
+        =>Write code to add a player to the team with details Player Id, Name, and Age.
+        =>Write code to remove a player from the team by passing the player’s Id.
+        =>Write code to get player details by passing the player’s Id.
+        =>Write code to get player details by passing the player’s name.
+        =>Write code to get all player details.
+        =>Write code to not add more than 11 players to the team.
+4.In Main method execute these classes to get desired Output.
+
+Github Link:
+
+   https://github.com/Tejaswinideena/Gitrepository.git
