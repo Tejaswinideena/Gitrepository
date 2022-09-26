@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\AdoProject\HelperLibrary\bin\Debug\HelperLibrary.dll
+E:\Visual Studio Projects\AdoProject\HelperLibrary\bin\Debug\HelperLibrary.pdb
+E:\Visual Studio Projects\AdoProject\HelperLibrary\obj\Debug\HelperLibrary.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\AdoProject\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\AdoProject\HelperLibrary\obj\Debug\HelperLibrary.dll
+E:\Visual Studio Projects\AdoProject\HelperLibrary\obj\Debug\HelperLibrary.pdb
+E:\Visual Studio Projects\AdoProject\HelperLibrary\bin\Debug\BusinessLogicLibrary.dll
+E:\Visual Studio Projects\AdoProject\HelperLibrary\bin\Debug\DataAccessLibrary.dll
+E:\Visual Studio Projects\AdoProject\HelperLibrary\bin\Debug\BusinessLogicLibrary.pdb
+E:\Visual Studio Projects\AdoProject\HelperLibrary\bin\Debug\DataAccessLibrary.pdb
+E:\Visual Studio Projects\AdoProject\HelperLibrary\obj\Debug\HelperLibrary.csproj.CopyComplete

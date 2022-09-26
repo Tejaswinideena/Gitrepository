@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\AdoProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+E:\Visual Studio Projects\AdoProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+E:\Visual Studio Projects\AdoProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\AdoProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\AdoProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+E:\Visual Studio Projects\AdoProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb
