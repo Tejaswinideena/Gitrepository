@@ -1,0 +1,13 @@
+E:\Visual Studio Projects\Sept 28\Sept 28\bin\Debug\Sept 28.exe.config
+E:\Visual Studio Projects\Sept 28\Sept 28\bin\Debug\Sept 28.exe
+E:\Visual Studio Projects\Sept 28\Sept 28\bin\Debug\Sept 28.pdb
+E:\Visual Studio Projects\Sept 28\Sept 28\obj\Debug\Sept 28.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Sept 28\Sept 28\obj\Debug\Sept 28.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Projects\Sept 28\Sept 28\obj\Debug\Sept 28.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Sept 28\Sept 28\obj\Debug\Sept 28.exe
+E:\Visual Studio Projects\Sept 28\Sept 28\obj\Debug\Sept 28.pdb
+E:\Visual Studio Projects\Sept 28\Sept 28\bin\Debug\Bal.dll
+E:\Visual Studio Projects\Sept 28\Sept 28\bin\Debug\Dal.dll
+E:\Visual Studio Projects\Sept 28\Sept 28\bin\Debug\Bal.pdb
+E:\Visual Studio Projects\Sept 28\Sept 28\bin\Debug\Dal.pdb
+E:\Visual Studio Projects\Sept 28\Sept 28\obj\Debug\Sept 28.csproj.CopyComplete
