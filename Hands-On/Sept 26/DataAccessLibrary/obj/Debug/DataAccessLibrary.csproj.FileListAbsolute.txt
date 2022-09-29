@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\bin\Debug\BusinessLogicLibrary.dll
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\bin\Debug\BusinessLogicLibrary.pdb
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CopyComplete
+E:\Visual Studio Projects\AdoProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
