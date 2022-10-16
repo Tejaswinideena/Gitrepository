@@ -1,0 +1,11 @@
+Writeup
+
+Step 1:Now create ASP .NET application and select Web API in Visual Studio,Create 2 class library bal,dal .
+Step 2:Add entity framework package for bal,dal,webapi. 
+Step 3:Add references and project dependencies.
+Step 4:Add connection string in bal,dal and webapi in order to create database using code first approach.
+Step 5:Write code for get,post,put,delete and run the project to get output.
+
+Github Link:
+
+https://github.com/Tejaswinideena/Gitrepository/Project.git
