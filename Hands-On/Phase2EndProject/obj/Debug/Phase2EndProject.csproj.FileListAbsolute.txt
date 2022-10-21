@@ -1,0 +1,8 @@
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\bin\Debug\Phase2EndProject.exe.config
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\bin\Debug\Phase2EndProject.exe
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\bin\Debug\Phase2EndProject.pdb
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\obj\Debug\Phase2EndProject.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\obj\Debug\Phase2EndProject.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\obj\Debug\Phase2EndProject.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\obj\Debug\Phase2EndProject.exe
+E:\Visual Studio Projects\Phase2EndProject\Phase2EndProject\obj\Debug\Phase2EndProject.pdb
