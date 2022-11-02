@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\obj\Debug\SchoolOopsTesting.Tests.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\obj\Debug\SchoolOopsTesting.Tests.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\bin\Debug\SchoolOopsTesting.Tests.dll
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\bin\Debug\SchoolOopsTesting.Tests.pdb
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\bin\Debug\nunit.framework.dll
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\bin\Debug\SchoolOopsTesting.dll
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\bin\Debug\nunit.framework.xml
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\bin\Debug\SchoolOopsTesting.pdb
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\obj\Debug\SchoolOopsTesting.Tests.csproj.CopyComplete
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\obj\Debug\SchoolOopsTesting.Tests.dll
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting.Tests\obj\Debug\SchoolOopsTesting.Tests.pdb

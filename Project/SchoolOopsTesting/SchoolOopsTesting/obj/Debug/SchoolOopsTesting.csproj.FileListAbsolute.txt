@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting\bin\Debug\SchoolOopsTesting.dll
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting\bin\Debug\SchoolOopsTesting.pdb
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting\obj\Debug\SchoolOopsTesting.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting\obj\Debug\SchoolOopsTesting.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting\obj\Debug\SchoolOopsTesting.dll
+E:\Visual Studio Projects\SchoolOopsTesting\SchoolOopsTesting\obj\Debug\SchoolOopsTesting.pdb
