@@ -1,0 +1,42 @@
+﻿@model BlogTrackerApp.Models.EmpModel
+
+@{
+    ViewBag.Title = "EmpDetails";
+}
+
+<h2>EmpDetails</h2>
+
+<div>
+    <h4>EmpModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmailID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfJoining)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfJoining)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit Employee", "EditEmp", new { id = Model.Passcode }) |
+    @Html.ActionLink("Back to Employee List Page", "EmpPage")
+</p>

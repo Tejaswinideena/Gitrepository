@@ -1,0 +1,57 @@
+﻿@model BlogTrackerApp.Models.BlogModel
+
+@{
+    ViewBag.Title = "BlogDetails";
+}
+
+<h2>Blog Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Subject)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Subject)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfCreation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfCreation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BlogURL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BlogURL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpEmailID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpEmailID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "EditBlog", new { id = Model.BlogID }) |
+    @Html.ActionLink("Back to Blog Lists", "BlogPage")
+</p>

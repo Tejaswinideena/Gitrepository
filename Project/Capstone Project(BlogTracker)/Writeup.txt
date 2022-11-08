@@ -1,0 +1,11 @@
+Capstone Project - Blog Tracker Application
+
+Step 1: Create an ASP .Net MVC Application and Enable docker support.
+Step 2: Create a database named BlogDB,connect it with azure and use entity framework.
+Step 3:Write code for Models,Controllers and generate respective views.
+Step 4:Use docker container to run the project for that move docker file to one step above location and then write commands to create docker container.
+Step 5:Run the project using Docker and Add or update Blogs.
+
+Github Link:
+
+     https://github.com/Tejaswinideena/Gitrepository/Project.git

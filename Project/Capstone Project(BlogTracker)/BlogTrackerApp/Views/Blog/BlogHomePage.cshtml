@@ -1,0 +1,49 @@
+﻿@model IEnumerable<BlogTrackerApp.Models.BlogModel>
+
+@{
+    ViewBag.Title = "BlogHomePage";
+}
+
+<h2>List of Blogs</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Subject)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfCreation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmpEmailID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BlogURL)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Subject)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfCreation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmpEmailID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BlogURL)
+        </td>
+    </tr>
+}
+
+</table>
